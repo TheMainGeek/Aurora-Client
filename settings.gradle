@@ -1,4 +1,4 @@
-rootProject.name = 'mcp-reborn'
+rootProject.name = 'aurora-client'
 
 include ':mcp'
 project(":mcp").projectDir = file("projects/mcp")
